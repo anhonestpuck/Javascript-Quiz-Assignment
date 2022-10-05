@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: auto;
+}
+
+.quiz {
+  visibility: hidden;
+}
+
+.question1 {
+  visibility: hidden;
+}
